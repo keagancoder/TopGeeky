@@ -4,7 +4,8 @@ export const zhNavbar = navbar([
   { 
     text: "面试宝典", 
     icon: "discover", 
-    link: "/docs/interview" },
+    link: "/interview"
+  },
   {
     text: "进阶之路",
     icon: "creative",

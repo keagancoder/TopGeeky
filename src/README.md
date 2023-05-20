@@ -7,7 +7,7 @@ heroText: TopGeeky
 tagline: 汇聚计算机专业同学的就业、自我提升和资源分享，助力你成为顶尖极客！加入我们，探索无限可能！
 actions:
   - text: 开始阅读 💡
-    link: /docs/interview/
+    link: /interview/
     type: primary
 
   # - text: 文档
