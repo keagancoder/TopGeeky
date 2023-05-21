@@ -10,7 +10,6 @@ export const interviewGuide = arraySidebar([
           "prepare-interview",
           "resume-guide",
           "key-points-of-interview",
-          "interview-experience",
           "reverse-interview-and-hr-interview",
         ],
     }
