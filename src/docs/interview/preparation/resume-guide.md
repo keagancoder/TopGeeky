@@ -1,5 +1,5 @@
 ---
-title: 
+title: 简历准备
 category: 面试准备
 icon: path
 navbar: true

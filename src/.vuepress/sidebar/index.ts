@@ -1,7 +1,7 @@
 import { sidebar } from "vuepress-theme-hope";
 import { interviewGuide } from "./interview";
 export const zhSidebar = sidebar({
-  "/interview":interviewGuide,
+  "/docs/interview":interviewGuide,
   "/": [
     {
       icon: "discover",
